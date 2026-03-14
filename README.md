@@ -1,4 +1,4 @@
-Amazon Sales Dashboard – Power BI
+https://github.com/lishajaiswal-glitch/Amazon-Sales-PowerBI-Dashboard
 
 This project presents a Power BI dashboard analyzing Amazon sales data.
 
